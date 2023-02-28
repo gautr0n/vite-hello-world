@@ -10,6 +10,6 @@ export default{
 
 <template>
     <div>
-        {{ msg }}
+        <h1>{{ msg }}</h1>
     </div>
 </template>

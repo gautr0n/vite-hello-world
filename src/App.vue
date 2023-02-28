@@ -12,7 +12,7 @@
 
 <!-- 3° utilizzare la componente -->
 <template>
-  <h1><appTitle></appTitle></h1>
+  <appTitle></appTitle>
 </template>
 
 <style>
